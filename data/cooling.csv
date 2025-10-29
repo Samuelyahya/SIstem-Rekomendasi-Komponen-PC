@@ -1,0 +1,11 @@
+brand,model,type,radiator_size,socket_compatibility,noise_level,rating,price_idr,suitable
+DeepCool,GAMMAXX 400 Pro,Air Cooler,-,LGA1700/AM5,30 dBA,4.7,389000,Mid-range air cooling
+Cooler Master,Hyper 212 Black Edition,Air Cooler,-,LGA1700/AM5,26 dBA,4.8,730000,Mid-range performance
+be quiet!,Pure Rock 2,Air Cooler,-,LGA1700/AM5,25 dBA,4.9,566000,Silent air build
+Noctua,NH-U12S Redux,Air Cooler,-,LGA1700/AM5,25 dBA,4.9,822000,High-end air cooling
+DeepCool,LS520 240mm,AIO,240mm,LGA1700/AM5,32 dBA,4.9,965000,High-end liquid cooling
+Corsair,iCUE H100i Elite Capellix,AIO,240mm,LGA1700/AM5,28 dBA,4.9,1769000,Premium RGB AIO
+NZXT,Kraken X63,AIO,280mm,LGA1700/AM5,30 dBA,4.9,2310000,High-end performance build
+Lian Li,Galahad 360,AIO,360mm,LGA1700/AM5,32 dBA,4.9,2499000,Premium white build
+ASUS ROG,Ryujin II 360,AIO,360mm,LGA1700/AM5,35 dBA,5,5196000,Ultimate high-end cooling
+Corsair,iCUE H150i Elite LCD,AIO,360mm,LGA1700/AM5,33 dBA,5,4169000,Enthusiast showcase system

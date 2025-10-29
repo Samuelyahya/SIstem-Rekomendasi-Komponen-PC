@@ -1,0 +1,11 @@
+brand,model,power,efficiency,certification,modular,rating,price_idr,suitable
+Cooler Master,MWE 550 Bronze V2,550,85%,80+ Bronze,Non-Modular,4.7,711040,Mid-range basic build
+FSP,HV Pro 650W,650,88%,80+ Bronze,Non-Modular,4.7,749000,Mid-range gaming
+Corsair,CV650,650,88%,80+ Bronze,Non-Modular,4.8,927900,Mid-range Intel/AMD setup
+DeepCool,PK650D,650,85%,80+ Bronze,Semi-Modular,4.8,710000,Mid-range modular PSU
+Seasonic,S12III 650W,650,88%,80+ Bronze,Non-Modular,4.9,1045000,Mid-range reliable PSU
+Antec,NeoECO Gold 650W,650,90%,80+ Gold,Fully Modular,4.9,1620000,High-end efficiency build
+Cooler Master,MWE Gold 750W,750,90%,80+ Gold,Fully Modular,4.9,969000,High-end gaming build
+Corsair,RM750e,750,90%,80+ Gold,Fully Modular,5,1875000,High-end silent PSU
+Seasonic,Focus GX-850,850,92%,80+ Gold,Fully Modular,5,1850000,Enthusiast PC build
+ASUS ROG,Thor 1000W Platinum II,1000,94%,80+ Platinum,Fully Modular,5,5220000,Ultimate high-end system

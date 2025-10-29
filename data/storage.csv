@@ -1,0 +1,11 @@
+brand,model,type,capacity,reading_speed,writing_speed,form_factor,rating,price_idr,suitable
+Kingston,NV2 500GB NVMe SSD,NVMe SSD,500GB,3500 MB/s,2100 MB/s,M.2,4.7,664000,Mid-range system drive
+Crucial,P3 1TB NVMe SSD,NVMe SSD,1TB,3500 MB/s,3000 MB/s,M.2,4.8,708000,Mid-range gaming setup
+WD Blue,SN570 1TB NVMe SSD,NVMe SSD,1TB,3500 MB/s,3000 MB/s,M.2,4.8,900000,Mid-range productivity
+Samsung,970 EVO Plus 1TB,NVMe SSD,1TB,3500 MB/s,3300 MB/s,M.2,4.9,1100000,High-end performance build
+Lexar,NM790 2TB NVMe SSD,NVMe SSD,2TB,7400 MB/s,6500 MB/s,M.2,4.9,2290000,High-end gaming build
+Samsung,990 PRO 2TB,NVMe SSD,2TB,7450 MB/s,6900 MB/s,M.2,5,2750000,Premium enthusiast setup
+Crucial,MX500 1TB SATA SSD,SATA SSD,1TB,560 MB/s,510 MB/s,2.5”,4.8,950000,Mid-range SATA upgrade
+WD Black,SN850X 2TB,NVMe SSD,2TB,7300 MB/s,6600 MB/s,M.2,5,2850000,Top-tier gaming & workstation
+Seagate,FireCuda 530 2TB,NVMe SSD,2TB,7300 MB/s,6900 MB/s,M.2,5,3124100,High-end creator setup
+ADATA XPG,SX8200 Pro 1TB,NVMe SSD,1TB,3500 MB/s,3000 MB/s,M.2,4.8,1150000,Mid-high gaming PC

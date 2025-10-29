@@ -1,0 +1,11 @@
+brand,model,gpu_max_length_mm,form_factor,support_motherboard,side_panel,airflow,rating,price_idr,suitable
+DeepCool,Matrexx 50 Mesh 4FS,350,Mid Tower,ATX/Micro-ATX,Tempered Glass,High,4.7,810000,Mid-range airflow build
+NZXT,H510 Flow,381,Mid Tower,ATX/Micro-ATX/Mini-ITX,Tempered Glass,High,4.8,1399000,Mid-high clean setup
+Corsair,4000D Airflow,360,Mid Tower,ATX/Micro-ATX/Mini-ITX,Tempered Glass,High,4.9,1499000,High-end airflow
+Lian Li,Lancool 215,360,Mid Tower,ATX/Micro-ATX/Mini-ITX,Tempered Glass,High,4.9,1155000,Mid-high RGB airflow
+Fractal Design,Meshify C,315,Mid Tower,ATX/Micro-ATX/Mini-ITX,Tempered Glass,High,4.9,1350000,Premium minimalist build
+Cooler Master,TD500 Mesh V2,410,Mid Tower,ATX/Micro-ATX/Mini-ITX,Tempered Glass,High,4.8,1279000,Stylish gaming setup
+Phanteks,Eclipse G360A,435,Mid Tower,ATX/Micro-ATX/Mini-ITX,Tempered Glass,High,4.9,1530000,Modern RGB system
+Lian Li,O11 Dynamic EVO,420,Mid Tower,E-ATX/ATX/Micro-ATX,Tempered Glass,Excellent,5,2300000,High-end showcase build
+Corsair,iCUE 5000T RGB,360,Mid Tower,E-ATX/ATX/Micro-ATX,Tempered Glass,Excellent,5,5395000,Premium RGB workstation
+Fractal Design,North,360,Mid Tower,ATX/Micro-ATX/Mini-ITX,Tempered Glass,Good,4.9,1700000,Stylish wood-accent build
